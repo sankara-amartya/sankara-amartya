@@ -7,7 +7,6 @@ I'm a final-year IT student and a Software Engineer Intern specializing in build
 * 🔭 **I’m currently working on:** A production-grade ERP / Global Talent System (GTS) spanning multiple enterprise modules.
 * 🌱 **I’m currently focused on:** Advanced Data Structures & Algorithms and optimizing backend architecture.
 * 💬 **Ask me about:** Next.js, PostgreSQL, Prisma, and Docker.
-* 📫 **How to reach me:** [Insert your LinkedIn Profile URL] or [Insert your Email Address]
 * ⚡ **Fun fact:** When I'm not coding, you can usually find me on the badminton court or discovering new tech. 
 
 ### 🛠️ Tech Stack & Tools
